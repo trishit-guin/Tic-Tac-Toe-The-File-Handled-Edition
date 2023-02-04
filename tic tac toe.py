@@ -1,5 +1,5 @@
 def record():
-    global a, b, c, d, e, f, g, h, i
+        global a, b, c, d, e, f, g, h, i
 	global p1, p2
 	global count
 	file = open("record.txt", "a+")
